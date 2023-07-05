@@ -1,0 +1,29 @@
+{
+   "page": 1,
+   "results": [{
+     "title": "Greyhound",
+    "popularity": 261.465,
+      "id": 547016,
+     "poster_path": "",
+      "overview": "tudo ok",
+      "release_date": "03-07-2023"
+   },
+      {
+      "title": "Joker",
+      "popularity": 261.465,
+      "id": 547016,
+        "poster_path": "",
+      "overview": "tudo ok",
+      "release_date": "03-07-2023"
+      },
+
+      {
+        "title": "Interstellar",
+         "popularity": 261.465,
+         "id": 547016,
+        "poster_path": "",
+         "overview": "tudo ok",
+         "release_date": "03-07-2023"
+      }
+   ]
+}
